@@ -1,0 +1,15 @@
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\HaberSistemi.Core.dll.config
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\HaberSistemi.Core.dll
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\HaberSistemi.Core.pdb
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\EntityFramework.dll
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\HaberSistemi.Data.dll
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\HaberSistemi.Data.pdb
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\HaberSistemi.Data.dll.config
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\EntityFramework.xml
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.csproj.AssemblyReference.cache
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.csproj.CoreCompileInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.csproj.CopyComplete
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.dll
+C:\Users\murat\OneDrive\Masaüstü\c# proje\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.pdb
